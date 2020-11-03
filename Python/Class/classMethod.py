@@ -16,5 +16,5 @@ class Employee:
           print(f"The Employee id is {self.employeeId}.\nThe Employee Name is {self.employeeName}.\nThe Employee Contact Number is {self.employeeContactNumber}.\nThe Employee Salary is {self.employeeSalary}.")
     
 yogesh = Employee()
-yogesh.getValues(10001,"Yogesh Gaur",9868747636,43534.359)
+yogesh.getValues(10001,"Yogesh Gaur",3745843240,43534.359)
 yogesh.printValue()
